@@ -12,4 +12,23 @@
     - [Convert](/Multimedia/Convert.md)
     - [Screenshot](/Multimedia/Screenshot.md)
 - File Management
-    - [Archive](/File%20Management/Archive.md)
+    - [Explorer](/File-Management/Explorer.md)
+    - [Archiver](/File-Management/Archiver.md)
+    - [Fast Search](/File-Management/Fast-Search.md)
+    - [Deep Search](/File-Management/Deep-Search.md)
+    - [Renamer](/File-Management/Renamer.md)
+    - [Copy & Paste](/File-Management/Copy-Paste.md)
+- Doc & Office
+    - [Chart](/Doc-Office/Chart.md)
+    - [Reader](/Doc-Office/Reader.md)
+    - [Blog Editor](/Doc-Office/Blog-Editor.md)
+- Academic
+    - [Reference](/Academmic/Reference.md)
+    - [Math](/Academmic/Math.md)
+    - [Scientific Calculation](/Academmic/Scientific-Calculation.md)
+    - [Chemistry](/Academmic/Chemistry.md)
+    - [Biology](/Academmic/Biology.md)
+    - [Astronomy](/Academmic/Astronomy.md)
+- Learning
+    - [Memory](/Learning/Memory.md)
+    - [Laguage Learning](/Learning/Laguage-Learning.md)
