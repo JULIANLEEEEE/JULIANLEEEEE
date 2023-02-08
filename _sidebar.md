@@ -4,7 +4,12 @@
     - [Browser](/Internet/Browser.md)
     - [RSS](/Internet/RSS.md)
     - [FTP & SSH](/Internet/FTP-SSH.md)
+    - [Backup](/Internet/Backup.md)
 - Multimedia
+    - [Image Viewer](/Multimedia/Image-Viewer.md)
+    - [Music Player](/Multimedia/Music-Player.md)
     - [Video Player](/Multimedia/Video-Player.md)
     - [Convert](/Multimedia/Convert.md)
     - [Screenshot](/Multimedia/Screenshot.md)
+- File Management
+    - [Archive](/File%20Management/Archive.md)
