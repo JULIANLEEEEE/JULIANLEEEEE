@@ -1,7 +1,10 @@
 - [Home](/)
-- [README](README.md)
+- [about](/about.md)
 - Internet
-    - [Browser](Browser.md)
-    - [RSS](RSS.md)
+    - [Browser](/Internet/Browser.md)
+    - [RSS](/Internet/RSS.md)
+    - [FTP & SSH](/Internet/FTP-SSH.md)
 - Multimedia
-    - [Convert](Convert.md)
+    - [Video Player](/Multimedia/Video-Player.md)
+    - [Convert](/Multimedia/Convert.md)
+    - [Screenshot](/Multimedia/Screenshot.md)
