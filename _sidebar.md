@@ -9,6 +9,7 @@
     - [Image Viewer 图片查看器](/Multimedia/Image-Viewer.md)
     - [Music Player 音乐播放器](/Multimedia/Music-Player.md)
     - [Video Player 视频播放器](/Multimedia/Video-Player.md)
+    - [Podcast 播客](/Multimedia/Podcast.md)
     - [Convert 格式转换](/Multimedia/Convert.md)
     - [Screenshot 截图工具](/Multimedia/Screenshot.md)
 - File Management

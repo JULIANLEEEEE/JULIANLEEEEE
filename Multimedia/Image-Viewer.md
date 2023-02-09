@@ -60,7 +60,7 @@ https://bitbucket.org/neelabo/neeview/wiki/Home
 * 支持众多图像 / 动画 / RAW / HDR / 压缩文件格式
 * 从动画文件中提取单个 / 全部帧
 * 显示图像 / 动画文件的详细信息
-* 显示Exif/IPTC信息
+* 显示 Exif / IPTC 信息
 * 显示或隐藏透明度
 * 提供批量转换、批量重命名、捕捉屏幕、创建动画等简易编辑功能
 * 幻灯片展示

@@ -32,8 +32,6 @@ https://www.splayer.org/
 
 ### VLC
 
-`Windows` `Mac` `Linux` `iOS` `Android`
-
 https://www.videolan.org/
 
 VLC 是自由开源的跨平台多媒体播放器及框架。
