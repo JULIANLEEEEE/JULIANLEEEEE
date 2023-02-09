@@ -54,6 +54,12 @@ https://bitbucket.org/neelabo/neeview/wiki/Home
 
 ## 平平淡淡的其他
 
+[Nomacs](https://nomacs.org/)
+
+Nomacs 是一个免费的开源图像查看器，界面简洁，运行快速，支持多个平台。
+
+支持所有常见的图像格式，能够直接浏览压缩包及 Office 文档中的图片。支持调整亮度、对比度、饱和度、色相、伽玛、曝光等（图片查看器常有的额外功能）。
+
 [Imagine](https://www.nyam.pe.kr/dev/imagine/)
 
 * 以极快的速度查看和保存图像 / 动画文件
