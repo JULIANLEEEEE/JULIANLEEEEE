@@ -6,7 +6,7 @@
     - [FTP & SSH 传输](/Internet/FTP-SSH.md)
     - [Backup 备份](/Internet/Backup.md)
 - Multimedia
-    - [Image Viewer 看图工具](/Multimedia/Image-Viewer.md)
+    - [Image Viewer 图片查看器](/Multimedia/Image-Viewer.md)
     - [Music Player 音乐播放器](/Multimedia/Music-Player.md)
     - [Video Player 视频播放器](/Multimedia/Video-Player.md)
     - [Convert 格式转换](/Multimedia/Convert.md)

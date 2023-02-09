@@ -1,68 +1,69 @@
-[Honeyview](https://www.bandisoft.com/honeyview/)
+# Image Viewer 图片查看器
+
+## 无需考虑的首选
+
+### Honeyview
+
+`Windows`
+
+https://www.bandisoft.com/honeyview/
 
 Honeyview 是一款快速的图片查看器：
 
-*   轻量而快速
-*   可以显示包括 GPS 信息在内的 JPEG 格式的 EXIF 信息
-*   对图像格式进行批量转换和调整大小
-*   支持显示 GIF 和 WebP 动图
+*   流畅美观，轻量快速，简洁大气
+*   可以非常方便地显示 EXIF 信息
+*   提供批量转换和调整大小等简易调整功能
 *   无需解压即可直接查看压缩包中的图像
 
-*****
+---
 
-[XnView MP](https://www.xnview.com/en/xnviewmp/)
+## 也还可以的推荐
 
-XnView MP是一个多功能的、功能强大的照片查看器、图像管理、图像大小调整器，是最稳定、最容易使用、最全面的照片编辑器之一。支持所有常见的图片和图形格式。
+### XnView MP
 
-*****
+https://www.xnview.com/en/xnviewmp/
 
-[IrfanView](https://www.irfanview.com/)
+XnView MP 是经典软件 XnView 的现代重构版，支持多个操作系统。它与 ACDSee 类似，是集成了图像管理、简易调整等功能的多功能图片查看器，支持所有常见的图片和图形格式。
 
-IrfanView图形查看器：
+相关产品：
+- [XnView Classic](https://www.xnview.com/en/xnview/)：经典版，仅支持 Windows 系统，有着更快的响应速度。
+- [XnConvert](https://www.xnview.com/en/xnconvert/)：图片批量格式转换工具。
+- [XnShell](https://www.xnview.com/en/xnshell/)：右键菜单附加工具，可对图片实现快速的简单编辑。
 
-* 速度快，结构紧凑（仅6MB）
-* 适用于非商业用途的免费软件
-* 支持Windows XP、Vista、7、8、10和11系统
-* 32和64位版本
-* 支持多国语言
-* 支持Unicode
-* 设计简单但功能强大
+### IrfanView
 
-*****
+https://www.irfanview.com/
 
-[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)
+性能卓越，速度极快。有高度的可定制性，搭配插件可以实现非常广泛的性能拓展。
 
-这个图像查看器允许你像书一样浏览文件夹中的图像。
+上手难度稍高，初始并不提供中文界面，需要自行安装语言包；插件分 32 位和 64 位 两种版本，互不兼容，注意识别。
 
-*****
+此外还有部分默认设置不太符合大众习惯，需要进入设置中具体调整。
+
+> 建议勾选「当到达文件文件夹头 / 尾时循环当前文件夹」、「浏览目录时仅载入关联文件格式」。
+
+### NeeView
+
+https://bitbucket.org/neelabo/neeview/wiki/Home
+
+为看漫画而特别优化了设计的图片查看器，能够像翻书一样同时浏览两张照片。
+
+此外，还支持压缩包看图、鼠标手势、触摸操作、多线程和超前查看、支持 PDF 阅读 / 视频播放等（图片查看器常有的额外功能）。
+
+---
+
+## 平平淡淡的其他
 
 [Imagine](https://www.nyam.pe.kr/dev/imagine/)
 
-* 以极快的速度查看和保存图像/动画文件
-* 支持众多图像/动画文件格式。PNG, JPG, GIF, BMP, PCX, TGA, TIFF, ICO, CUR, LBM, ANI, FLI, WMF, EMF等。
-* 从动画文件中提取单个/全部帧
-* 显示图像/动画文件的详细信息
+* 以极快的速度查看和保存图像 / 动画文件
+* 支持众多图像 / 动画 / RAW / HDR / 压缩文件格式
+* 从动画文件中提取单个 / 全部帧
+* 显示图像 / 动画文件的详细信息
 * 显示Exif/IPTC信息
 * 显示或隐藏透明度
-* 支持数码相机的原始图像文件格式。3FR, ARW, CR2, CRW, DNG, ERF, KDC, MRW, NEF, ORF, RAF, RAW, SRW, SR2等。
-* 支持众多档案文件格式。ZIP, RAR, 7Z, ALZ, HV3, CBZ, CBR, CB7, ARJ, LZH, EGG, TAR, ISO, CAB等。
-* 支持高动态范围图像文件格式。HDR, EXR, SXR, MXR等。
-* 提供64位版本
-* 提供Unicode版本
-* 多语言支持。英语、德语、西班牙语、俄语、丹麦语、韩语、日语、中文等。
-* 缩略图浏览器
-* 批量转换
+* 提供批量转换、批量重命名、捕捉屏幕、创建动画等简易编辑功能
 * 幻灯片展示
-* 批量重命名
-* 捕捉屏幕
-* 平铺视图（检查无缝平铺的纹理，对游戏开发者/修改者非常有用）
-* 创建动画
-* 创建多页图像
-* 操纵和编辑图像
-* 可定制的键盘和鼠标快捷键
-* 支持命令行参数
-* 外壳扩展支持
-* 支持附加插件
-* Total Commander列表器和打包器插件
-* 不写不必要的注册表(基于ini的配置)
+* 提供 Total Commander 列表器和打包器插件
+* 基于 `ini` 的配置，不写不必要的注册表
 * 完全优化的二进制文件（微小、纯净、快速、整洁）

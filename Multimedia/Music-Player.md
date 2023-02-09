@@ -1,48 +1,60 @@
-[foobar2000](https://www.foobar2000.org/)
+# Music Player 音乐播放器
 
-foobar2000是Windows平台上的一个高级免费音频播放器。
+### AIMP
 
-*****
+`Windows` `Android`
 
-[AIMP](https://www.aimp.ru/)
+https://www.aimp.ru/
 
-享受音乐！
+兼顾了专业功能性、界面易用性的音乐播放器，可说是当下 Windows 平台各方面最均衡的本地音乐播放器。
 
-*****
+### foobar2000
 
-[Museeks](https://museeks.io/)
+`Windows`
 
-一个简单、干净、跨平台的音乐播放器。
+https://www.foobar2000.org/
 
-*****
+Windows 平台上历史悠久的专业播放器，它的威名如雷贯耳。
 
-[MusicBee](https://getmusicbee.com/)
+有着专业软件的通病：初始界面简陋，进阶操作复杂。适合有一定探究精神的音乐爱好者而非普通用户。
 
-MusicBee使您可以轻松管理，查找和播放计算机上的音乐文件。MusicBee还支持播客，网络广播电台和SoundCloud集成。
+---
 
-*****
+## 也还可以的推荐
 
-[Resonic](https://resonic.at/)
+### Museeks
 
-Resonic Player是一款快速的音频和音乐播放器，目录播放器和示例浏览器，围绕大波形视图，频率分析仪和音乐频谱构建。
+https://museeks.io/
 
-以录音室级音频质量播放音频和音乐文件。
+优雅简洁，美观大气的开源跨平台音乐播放器。
 
-浏览和播放大量音乐文件，声音和文件夹，试听许多音频文件格式。
+### Resonic
 
-*****
+https://resonic.at/
+
+面向专业人士的音乐播放器，目录播放器和示例浏览器，围绕大波形视图，频率分析仪和音乐频谱构建。
+
+能够以录音室级音频质量播放音频和音乐文件，浏览和播放大量音乐文件，声音和文件夹，试听许多音频文件格式。
+
+---
+
+## 平平淡淡的其他
 
 [Dopamine](https://github.com/digimezzo/dopamine)
 
-Dopamine是一个优雅的音频播放器，它试图让组织和聆听音乐变得尽可能的简单和漂亮。
-
-*****
+开源的、优雅的音频播放器，它试图让组织和聆听音乐变得尽可能的简单和漂亮。
 
 [Audacious](https://audacious-media-player.org/)
 
-Audacious是一个开源的音频播放器。作为XMMS的后裔，Audacious以你想要的方式播放你的音乐，而不会从其他任务中抢走你的计算机资源。拖放文件夹和单个歌曲文件，在你的整个音乐库中搜索艺术家和专辑，或创建和编辑你自己的自定义播放列表。听CD或从互联网上流传音乐。用图形均衡器调整声音，或用音频效果改变动态范围。享受现代Qt主题的界面，或用Winamp经典皮肤来改变一切。使用Audacious附带的插件来获取音乐的歌词，显示VU表，以及更多。
+开源的音频播放器，XMMS 的后继者，提供宽广的跨平台支持及高级功能支持。
 
-*****
+[MusicBee](https://getmusicbee.com/)
+
+曲库管理软件，能够简明地管理成千上万首音乐。同时还支持播客、网络广播电台。
+
+---
+
+## 一些特别的论外
 
 [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
