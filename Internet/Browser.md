@@ -1,63 +1,57 @@
-[Google Chrome](https://www.google.cn/chrome/)
+# 浏览器
 
-由 Google 打造的浏览器。
-
-*****
+## 无需考虑的首选
 
 [Microsoft Edge](https://www.microsoft.com/zh-cn/edge)
 
-Microsoft Edge 是一款快速而安全的浏览器。
-
-*****
+微软全面拥抱 Blink 引擎后的产品，已经走向成熟，性能优异。优势在于微软的各项账号同步功能及插件商店在国内均可正常访问，也可以与 Chrome 插件商店完整兼容。
 
 [Mozilla Firefox](https://www.mozilla.org/zh-CN/firefox/)
 
-全方位网络体验，不止于浏览器。
+注重隐私与安全的独立浏览器，Quantum 引擎性能出色，运行流畅。插件商店在国内同样可正常访问。
 
-*****
+> 注意：目前 Windows 系统用户在中国大陆境内下载 Firefox 时均会被自动跳转至谋智网络版（中国特供版），若希望避免，可到[此处](https://www.mozilla.org/zh-CN/firefox/channel/desktop/)下载 Beta / Nightly / 开发者版。另外，由于诉讼原因，目前 Firefox 在中国大陆境内下架了官方应用商店中的广告拦截插件，需至各广告拦截插件官网下载 `.xpi` 文件手动安装。
 
-[Opera](https://www.opera.com/zh-cn)
+## 也还可以的推荐
 
-您的个人浏览器，比默认浏览器更快、更安全、更智能。功能齐全，具有隐私，安全性等等。
+[Google Chrome](https://www.google.cn/chrome/)
 
-*****
+由 Google 打造的浏览器，Blink 引擎领跑业界。
+
+虽然是浏览器的业界标杆，但由于同步功能与插件商店目前在国内无法正常访问，故此并不列入首选名单。
+
+## 平平淡淡的其他
 
 [Vivaldi](https://vivaldi.com/zh-hans/)
 
-Vivaldi 浏览器完全支持您的系统与移动设备。
-
-*****
+自定义程度很高的浏览器，适合工作需要深度使用浏览器、且愿意为了工作效率而折腾的人。
 
 [Brave Browser](https://brave.com/zh/)
 
-最佳在线隐私。私下浏览。私下搜索。放弃科技巨头。
-
-*****
+强调隐私保护的 Blink 引擎浏览器。
 
 [Waterfox](https://www.waterfox.net/)
 
-今天浏览网页的最佳方式。Waterfox为您提供了一种浏览网页的合理方式。专为您（用户）而构建。
-
-*****
+Firefox 的分支，能同时支持 Firefox 和 Chrome 插件商店。
 
 [LibreWolf](https://librewolf.net/)
 
-Firefox的一个分支，专注于隐私，安全和自由。
-
-*****
+Firefox 的分支，强调隐私保护。
 
 [Pale Moon](https://www.palemoon.org/)
 
-Pale Moon是一款开源的，基于Goanna的Web浏览器，可用于Microsoft Windows和Linux（提供其他操作系统支持），专注于效率和定制。确保充分利用您的浏览器！
-
-*****
+基于由 Firefox 旧内核发展而来的 Goanna 内核，保留了对 `XUL` 插件体系的充分兼容。
 
 [CentBrowser](https://www.centbrowser.com/)
 
-功能最丰富的Chromium。
+国内开发的 Chromium 系浏览器，增加了手势等额外功能。
 
-*****
+## 不建议日常使用
+
+[Opera](https://www.opera.com/zh-cn)
+
+老牌浏览器，但目前并不好用，俨然泯然众人矣。
 
 [Falkon](https://www.falkon.org/)
 
-Falkon是一个使用QtWebEngine渲染引擎的KDE网络浏览器，以前称为QupZilla。它旨在成为一个轻量级的Web浏览器，可通过所有主要平台使用。该项目最初仅用于教育目的。但从一开始，Falkon就已经成长为一个功能丰富的浏览器。
+原名 QupZilla，是 KDE 项目的轻量级浏览器，不支持同步功能和插件体系。
