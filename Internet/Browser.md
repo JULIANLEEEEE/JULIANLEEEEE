@@ -1,4 +1,4 @@
-# 浏览器
+# Browser 浏览器
 
 ## 无需考虑的首选
 
@@ -22,6 +22,8 @@ https://www.mozilla.org/zh-CN/firefox/
 
 > 另外，由于诉讼原因，目前 Firefox 在中国大陆境内下架了官方应用商店中的广告拦截插件，需至各广告拦截插件官网下载 `.xpi` 文件手动安装。
 
+---
+
 ## 也还可以的推荐
 
 ### Google Chrome
@@ -44,6 +46,8 @@ https://www.waterfox.net/
 
 Firefox 的分支，能同时支持 Firefox 和 Chrome 插件商店。
 
+---
+
 ## 平平淡淡的其他
 
 [Brave Browser](https://brave.com/zh/)
@@ -61,6 +65,8 @@ Firefox 的分支，强调隐私保护。
 [CentBrowser](https://www.centbrowser.com/)
 
 国内开发的 Chromium 系浏览器，增加了手势等额外功能。
+
+---
 
 ## 不建议日常使用
 
