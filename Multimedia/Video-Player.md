@@ -48,10 +48,6 @@ https://www.splayer.org/
 
 基于 MPV 内核的播放器，带有简单易用的设置界面，可以快速调整众多参数，大大降低了 MPV 原本复杂的上手难度。
 
-[Light Alloy](https://light-alloy.com/)
-
-Made in Russia 的视频播放器。
-
 ---
 
 ## 一些特别的论外
