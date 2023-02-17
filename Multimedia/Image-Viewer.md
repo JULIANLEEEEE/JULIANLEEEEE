@@ -4,7 +4,7 @@
 
 ### Honeyview
 
-平台`Windows`
+平台：`Windows`
 
 链接：https://www.bandisoft.com/honeyview/
 

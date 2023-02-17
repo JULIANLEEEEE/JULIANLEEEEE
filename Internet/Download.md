@@ -4,9 +4,9 @@
 
 ### Motrix
 
-`Windows` / `Mac` / `Linux`
+平台：`Windows` / `Mac` / `Linux`
 
-https://motrix.app/zh-CN/
+链接：https://motrix.app/zh-CN/
 
 使用 `aria2` 内核的下载工具，支持 `HTTP` / `FTP` / `BT` 等多种下载形式，当然这也不重要，只要知道它下载速度很快即可。
 
