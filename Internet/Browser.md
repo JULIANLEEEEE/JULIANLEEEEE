@@ -4,17 +4,17 @@
 
 ### Microsoft Edge
 
-`Windows` `Mac` `Linux` `iOS` `Android`
+平台：`Windows` / `Mac` / `Linux` / `iOS` / `Android`
 
-https://www.microsoft.com/zh-cn/edge
+链接：https://www.microsoft.com/zh-cn/edge
 
 微软全面拥抱 Blink 引擎后的产品，已经走向成熟，性能优异。优势在于微软的各项账号同步功能及插件商店在国内均可正常访问，也可以与 Chrome 插件商店完整兼容。
 
 ### Mozilla Firefox
 
-`Windows` `Mac` `Linux` `iOS` `Android`
+平台：`Windows` / `Mac` / `Linux` / `iOS` / `Android`
 
-https://www.mozilla.org/zh-CN/firefox/
+链接：https://www.mozilla.org/zh-CN/firefox/
 
 注重隐私与安全的独立浏览器，Quantum 引擎性能出色，运行流畅。插件商店在国内同样可正常访问。
 
@@ -28,7 +28,7 @@ https://www.mozilla.org/zh-CN/firefox/
 
 ### Google Chrome
 
-https://www.google.cn/chrome/
+链接：https://www.google.cn/chrome/
 
 由 Google 打造的浏览器，Blink 引擎领跑业界。
 
@@ -36,13 +36,13 @@ https://www.google.cn/chrome/
 
 ### Vivaldi
 
-https://vivaldi.com/zh-hans/
+链接：https://vivaldi.com/zh-hans/
 
 自定义程度很高的浏览器，适合工作需要深度使用浏览器、且愿意为了工作效率而折腾的人。
 
 ### Waterfox
 
-https://www.waterfox.net/
+链接：https://www.waterfox.net/
 
 Firefox 的分支，能同时支持 Firefox 和 Chrome 插件商店。
 

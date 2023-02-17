@@ -4,17 +4,17 @@
 
 ### AIMP
 
-`Windows` `Android`
+平台：`Windows` / `Android`
 
-https://www.aimp.ru/
+链接：https://www.aimp.ru/
 
 兼顾了专业功能性、界面易用性的音乐播放器，可说是当下 Windows 平台各方面最均衡的本地音乐播放器。
 
 ### foobar2000
 
-`Windows`
+平台：`Windows`
 
-https://www.foobar2000.org/
+链接：https://www.foobar2000.org/
 
 Windows 平台上历史悠久的专业播放器，它的威名如雷贯耳。
 
@@ -26,13 +26,13 @@ Windows 平台上历史悠久的专业播放器，它的威名如雷贯耳。
 
 ### Museeks
 
-https://museeks.io/
+链接：https://museeks.io/
 
 优雅简洁，美观大气的开源跨平台音乐播放器。
 
 ### Resonic
 
-https://resonic.at/
+链接：https://resonic.at/
 
 面向专业人士的音乐播放器，目录播放器和示例浏览器，围绕大波形视图，频率分析仪和音乐频谱构建。
 

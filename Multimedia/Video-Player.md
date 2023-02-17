@@ -4,15 +4,17 @@
 
 ### IINA
 
-`Mac`
+平台：`Mac`
 
-https://iina.io/
+链接：https://iina.io/
 
 适用于 macOS 的现代媒体播放器，性能出色，界面优雅，是 Mac 平台上的不二之选。
 
 ### VLC
 
-https://www.videolan.org/
+平台：`Windows` / `Mac` / `Linux` / `iOS` / `Android` ……
+
+链接：https://www.videolan.org/
 
 VLC 是自由开源的跨平台多媒体播放器及框架。
 
@@ -22,9 +24,9 @@ VLC 是自由开源的跨平台多媒体播放器及框架。
 
 ### MPC-BE
 
-`Windows`
+平台：`Windows`
 
-https://sourceforge.net/projects/mpcbe/
+链接：https://sourceforge.net/projects/mpcbe/
 
 MPC-BE 是 Windows 平台上的开源视频播放器，它继承了 MPC 优秀的兼容性和解码能力，是 MPC-HC 项目停止更新后的最佳选择。
 
@@ -34,7 +36,7 @@ MPC-BE 是 Windows 平台上的开源视频播放器，它继承了 MPC 优秀�
 
 ### 射手影音
 
-https://www.splayer.org/
+链接：https://www.splayer.org/
 
 曾经风靡一时，在沉寂多年后重新发布了如今的新版本。
 

@@ -4,9 +4,9 @@
 
 ### HandBrake
 
-`Windows` `Mac` `Linux`
+平台：`Windows` / `Mac` / `Linux`
 
-https://handbrake.fr/
+链接：https://handbrake.fr/
 
 由志愿者建立的开源工具，几乎可以将任何格式的视频转换为目标格式的编解码器，已经成为目前视频转码领域默认的评测标准工具。
 

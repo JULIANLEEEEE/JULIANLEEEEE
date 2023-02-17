@@ -4,9 +4,9 @@
 
 ### Honeyview
 
-`Windows`
+平台`Windows`
 
-https://www.bandisoft.com/honeyview/
+链接：https://www.bandisoft.com/honeyview/
 
 Honeyview 是一款快速的图片查看器：
 
@@ -21,7 +21,7 @@ Honeyview 是一款快速的图片查看器：
 
 ### XnView MP
 
-https://www.xnview.com/en/xnviewmp/
+链接：https://www.xnview.com/en/xnviewmp/
 
 XnView MP 是经典软件 XnView 的现代重构版，支持多个操作系统。它与 ACDSee 类似，是集成了图像管理、简易调整等功能的多功能图片查看器，支持所有常见的图片和图形格式。
 
@@ -32,7 +32,7 @@ XnView MP 是经典软件 XnView 的现代重构版，支持多个操作系统�
 
 ### IrfanView
 
-https://www.irfanview.com/
+链接：https://www.irfanview.com/
 
 性能卓越，速度极快。有高度的可定制性，搭配插件可以实现非常广泛的性能拓展。
 
@@ -44,7 +44,7 @@ https://www.irfanview.com/
 
 ### NeeView
 
-https://bitbucket.org/neelabo/neeview/wiki/Home
+链接：https://bitbucket.org/neelabo/neeview/wiki/Home
 
 为看漫画而特别优化了设计的图片查看器，能够像翻书一样同时浏览两张照片。
 
